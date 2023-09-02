@@ -1,2 +1,3 @@
-# Testing-
-Este repositorio muestra los testing para los acceptance criteria
+# Testing
+This repository shows the tests for the acceptance criteria of our user stories
+
